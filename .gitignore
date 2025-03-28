@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variable files
+.env
+
+# OS junk
+.DS_Store
+
+# VSCode project files (optional)
+.vscode/
+
+# Logs
+*.log
